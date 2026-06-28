@@ -133,7 +133,7 @@ a mobile carrier into transferring a victim's phone number to a new SIM card..
 # IS SIM CLONING STILL POSSIBLE TODAY?
 # =============================================================================
 # community and support 
-https://t.me/PTX_Dev
+https://t.me/PTXDevx
 How to Reach Me
 
     Click the link above to send me a direct message on Telegram.
